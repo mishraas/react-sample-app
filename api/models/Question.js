@@ -1,0 +1,1 @@
+//var Question = mongoose.model('Question', { heading: String, id:String, answer:String });
